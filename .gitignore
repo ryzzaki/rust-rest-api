@@ -1,0 +1,6 @@
+# compiles
+/target
+
+# env files
+.env*
+!.env.example
